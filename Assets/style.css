@@ -1,3 +1,8 @@
 body{
     background-color:darkcyan;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
 }
